@@ -1,6 +1,5 @@
-# Semantic Kernel in Action: 1 Fundamentals
-This is the repository for the LinkedIn Learning course Semantic Kernel in Action: 1 Fundamentals. 
-The full course is available from [LinkedIn Learning][lil-course-url].
+# Semantic Kernel in Action: Fundamentals"
+This repository accompanies the LinkedIn Learning course Semantic Kernel in Action: Fundamentals. The complete course can be accessed on [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
